@@ -20,7 +20,7 @@
 
 ## 1. Executive Summary
 
-**Venom & Vise** is a high-tension, first-person sub-aquatic harvesting and environmental risk-management game. Players dive into a bounded coral amphitheater off the Florida coast to cull invasive lionfish under strict oxygen constraints, while managing an escalating negotiation with a protected 7-foot green moray eel named **"Slippy"**.
+**Venom & Vise** is a high-tension, first-person sub-aquatic harvesting and resource management game. Players dive into a bounded coral amphitheater off the Florida coast to cull invasive lionfish under strict oxygen constraints, while managing an escalating negotiation with a protected (and moody) 7-foot green moray eel named **"Slippy"**.
 
 ### Core Gameplay Loop
 
